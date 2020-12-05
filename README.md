@@ -1,4 +1,12 @@
-# Corne keyboard
+# Kyrne keyboard
+
+A fork of the [Corne](https://github.com/foostan/crkbd) with a
+[Kyria](https://splitkb.com/collections/featured-products/products/kyria-pcb-kit)
+style pinky stagger.
+
+The changes only apply to the [Cherry PCB](corne-cherry/pcb) and [this plates](plates/common/top-bottom-extreme.svg).
+
+
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys and 3 thumb keys,
 based on [Helix](https://github.com/MakotoKurauchi/helix).
